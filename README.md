@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F01JB1KE)
+
 # 1D_Storage_Multi-Node_Model-Python
 The multi-node model in Python to simulate the one-dimensional axial temperature profile for a sensible stratified storage unit.
 
