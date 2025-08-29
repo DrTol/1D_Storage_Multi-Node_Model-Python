@@ -2,7 +2,7 @@
 """
 Multi-Node Method - 1D Stratified Sensible Storage Unit
 
-Created on Sat Oct 31 12:18:27 2020
+Developed on Sat Oct 31 12:18:27 2020
 @author: Hakan İbrahim Tol, PhD
 
 References:
@@ -156,4 +156,5 @@ plt.show()
             
         
         
+
         
